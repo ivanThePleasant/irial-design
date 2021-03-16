@@ -6,7 +6,7 @@ const About = () => {
 
   return (
     <section className="bg-white">
-      <div className="container mx-auto px-6 py-3 md:flex md:justify-between md:items-center">
+      <div className="container mx-auto px-6 py-8 md:flex md:justify-between md:items-center">
         <div className="grid md:grid-cols-2 md:gap-8">
           <div>
             <img className="w-full" src={Portrait} />

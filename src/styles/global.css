@@ -5,3 +5,14 @@
 @tailwind components;
 @tailwind utilities;
 
+.slick-prev {
+  left: -45px !important;
+}
+
+
+.slick-prev:before, .slick-next:before {
+  color: black !important;
+  font-size: 40px !important;
+}
+
+
